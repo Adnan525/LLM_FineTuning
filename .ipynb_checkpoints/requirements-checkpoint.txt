@@ -38,6 +38,7 @@ jupyterlab==4.0.9
 notebook==7.0.6
 ipywidgets==8.1.1
 ipython==8.18.1
+ipykernel==6.30.1
 
 # Jupyter extensions for better experience
 jupyter-contrib-nbextensions==0.7.0
@@ -47,3 +48,5 @@ jupyter-nbextensions-configurator==0.6.3
 safetensors>=0.4.3
 
 huggingface_hub
+dotenv
+jinja2
