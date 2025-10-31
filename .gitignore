@@ -1,3 +1,5 @@
 qwen/
 qwen_cache/
 .env
+qwen2.5_0_5b_finetuned/
+.*
